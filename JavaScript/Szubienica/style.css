@@ -1,0 +1,60 @@
+body {
+    background-color: grey;
+    color: rgb(61, 61, 170);
+}
+
+#pojemnik {
+    width: 900px;
+    background-color: yellow;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#plansza {
+    width: 900px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#szubienica {
+    width: 450px;
+    float: left;
+}
+
+#alfabet {
+    width: 450px;
+    float: left;
+}
+
+/*#napis1, #napis3 {
+    color: red;
+}*/
+
+.zolta {
+    color: yellow;
+}
+
+.zolta:hover {
+    color: red;
+    cursor: pointer;
+}
+
+
+#napis2 {
+    color: blue;
+}
+
+.litera {
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+    margin: 5px;
+    border: 3px solid white;
+    border-radius: 15px;
+    text-align: center;
+    float: left;
+}
+
+.litera:hover {
+    cursor: pointer;
+}
