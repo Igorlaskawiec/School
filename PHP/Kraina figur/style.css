@@ -1,0 +1,35 @@
+body{
+	font-family: Verdana;
+	color: #2f2f2f;
+	margin: 0;
+
+
+}
+header{
+	background-color: #DCDCDC;
+	padding: 15px;
+}
+
+#formularz{
+	padding: 15px;
+	width: 200px;
+	float: left;
+	margin: 20px;
+
+}
+#formularz2{
+	padding: 15px;
+	width: 350px;
+	float: left;
+	margin: 20px;
+	margin-top: 50px;
+
+}
+
+footer{
+	background-color: #DCDCDC;
+	padding: 10px;
+	border: solid;
+	float: bottom;
+	margin-top: 800px;
+}

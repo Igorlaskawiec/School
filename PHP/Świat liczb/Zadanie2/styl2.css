@@ -1,0 +1,43 @@
+body{
+	font-family: Verdana;
+	color: #2f2f2f;
+	margin:0;
+}
+.baner{
+	background-color: #DCDCDC;
+	width: 15%;
+	height: 80px;
+	float: left;
+}
+.baner#pierwszy{
+	width: 55%;
+	text-align: center;
+}
+#lewy{
+	background-color:#808080;
+	width:30%;
+	height:450px;
+	float:left;
+}
+#prawy{
+	background-color:#808080;
+	width:70%;
+	height:450px;
+	float:left;
+}
+#stopka{
+	background-color:#DCDCDC;
+	text-align:center;
+
+}
+h5{
+	border: solid 1px #808080;
+	margin:7px;
+	padding:10px;
+	font-size:80%;
+}
+input{
+	color:gray;
+}
+
+
