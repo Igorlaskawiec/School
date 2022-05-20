@@ -1,0 +1,17 @@
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 15px;
+}
+.product{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    background-color: var(--color-white);
+    border-radius: var(--border-radius);
+    border-color: black;
+    border: 1px solid;
+}
+.product-btn{
+    background-image: var(--linear-gradient);
+}

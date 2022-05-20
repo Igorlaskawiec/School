@@ -1,0 +1,25 @@
+:root {
+     --color-light: #f8f9fa;
+     --color-white: #8f72d38f;
+     --color-grey: #b283b6a9;
+     --color-medium: #58376bb7;
+     --color-dark: #533f55c0;
+
+     --spacing-small: 10px;
+     --spacing-medium: 15px;
+     --spacing-large: 30px;
+
+     --border-radius: 3px;
+
+     --linear-gradient: linear-gradient(to right, #62912c, #598b2096, #2d4710,#1a2c06);
+      
+      
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--color-light);
+}
+
+

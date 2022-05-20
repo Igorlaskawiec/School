@@ -1,0 +1,12 @@
+.header-container{
+    height: 50px;
+    background-color: var(--color-medium);
+    display: flex;
+    padding: 50px;;
+}
+.header-counter{
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
